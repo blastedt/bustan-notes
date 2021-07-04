@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a8fa7ec23c64a0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bab49d4ecd134a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/Session 28.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa3827756c29bf60",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd474f81c4e23d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f511f49a00e78d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0f9dbae1fcc5efd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0da1400bf71e34d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff85b1f5f89361e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "563003e97b63360a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27bab49d4ecd134a",
+  "lastOpenFiles": [
+    "Sessions/Session 28.md",
+    "Locales/Fimm's Workshop.md",
+    "Locales/Untitled.md",
+    "Characters/Driere.md",
+    "Untitled.md",
+    "Characters/Untitled.md"
+  ]
+}

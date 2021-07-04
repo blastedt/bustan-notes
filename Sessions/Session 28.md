@@ -79,7 +79,7 @@ Gave us all ominous advice
 - doing something to harmony patrolmen
 - firecalls nulla/preacher
 - fimm is creating the army
-
+```
 "Things are going fairly according to plan"
 "dunno what the hell jokwrub is doing"'
 "new aspects"
@@ -95,9 +95,10 @@ have you made contact
  n: i dont trust you or einn but i believe you want my spot and you want it in as good a spot as possible. einn just wants chaos
  f: sir i could never take your place im far weaker
  n: i am not stupid i know you have been making deals with many people. your alliance web is nothing compared to my str. but know this: should the rising prove to be more competent than you, i will have them replace you in a heartbeat. prove your worthiness now
- fimm very happy with that convo
- happy steals some firecall powder and its attuned to the preacher (!!)
- 
+
+ ```
+- fimm very happy with that convo
+- happy steals some firecall powder and its attuned to the preacher (!!)
  - not stealing HP armor anymore, making it bespoke
  - FIMM IS THE ONE ARRANGING CONCLAVE-JOKWRUB
  - letters are sent specifically to cielus

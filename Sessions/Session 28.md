@@ -107,12 +107,13 @@ have you made contact
 
 # Mafia
 
-Underground Delegation wants to talk to us
-Meant to free the city
-Alliance of mafia?
-Nalphrey has been bulking to become a better mafiaman
-Head down underground through a secret wall in the bottom of a restaurant
-Must be a lot of ways in since we didnt like go anywhere, we were just eating at the restaurant
-Anti capcris and anticonclave
-wielder is secretly a mafia supplier
-milo blew my cover inside the underground delegation
+- Underground Delegation wants to talk to us
+- Meant to free the city
+- Alliance of mafia?
+- Nalphrey has been bulking to become a better mafiaman
+- Head down underground through a secret wall in the bottom of a restaurant
+- Must be a lot of ways in since we didnt like go anywhere, we were just eating at the restaurant
+- Anti capcris and anticonclave
+- wielder is secretly a mafia supplier
+	- The Waterside Guild has been providing illegal goods to this particular mafia (starts with L), including Spelljuice. Same mafia as the one at three bridges
+- milo blew my cover inside the underground delegation

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 28.md",
+            "file": "Characters/Conclave/Driere.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 28.md",
+                "file": "Characters/Conclave/Driere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,15 @@
   },
   "active": "27bab49d4ecd134a",
   "lastOpenFiles": [
-    "Sessions/Session 28.md",
+    "Characters/Conclave/Driere.md",
+    "Characters/Conclave/Cielus.md",
+    "Locales/Conclave floating thing.md",
+    "Characters/Preacher/Fimm.md",
     "Locales/Fimm's Workshop.md",
-    "Locales/Untitled.md",
-    "Characters/Driere.md",
-    "Untitled.md",
-    "Characters/Untitled.md"
+    "Characters/Preacher/Einn.md",
+    "Characters/Preacher/Fyorir.md",
+    "Characters/Preacher/Nulla.md",
+    "Characters/Preacher/Tvaer.md",
+    "Characters/Preacher/Thriu.md"
   ]
 }

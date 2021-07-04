@@ -30,7 +30,7 @@
 - Fimm has a workshop in Stox
 - Don't think Jokwrub and Fimm are good people
 	- Don't know about Garusic
-- Nulla = Preacher
+- [[Nulla]] = Preacher
 - Einn is strange
 - Tvaer
 - Jokwrub = Thrju
@@ -45,6 +45,12 @@
 - She has done too much good for the Magpie
 - Living Light may be the downfall of the Magpie
 
+# Isaac confronts Happy
+- Unhappy that she did not share changes in her life with Isaac
+- She didn't think that Isaac would support her.
+- Isaac says of course he would have, she's his sister.
+- Happy says it's just for a while but she's dedicating herself to this cause and won't be focused on anything else.
+- Says the Fae would be against what the Living Light stands for.
 
 # My Downtime
 - Last episcopotas is called Driere

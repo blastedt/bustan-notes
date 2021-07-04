@@ -1,0 +1,1 @@
+Cielus is an Episcopatus of the Conclave.  He arrived in Slaypool on the [[Conclave Citadel|floating cathedral]] that arrived in Session 27.  
